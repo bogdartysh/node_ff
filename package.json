@@ -1,0 +1,16 @@
+{
+  "title": "noice_dosage",
+  "name": "noicedosage",
+  "version": "0.0.1",
+  "description": "Measure the volume of sounds using your PC",
+  "main": "index.js",
+  "author": "Bogdan Artyushenko",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
